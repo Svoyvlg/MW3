@@ -1,2 +1,2 @@
 TeknoMW3_Client_Launcher.exe - 1.6.0.1 - SHA1:
-26da00b1762fe14f2caa31c16d539a86cbfe2acf
+3a2b48c6c6ba9146e25009fabfff288991e4bdf2
